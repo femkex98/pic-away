@@ -1,0 +1,665 @@
+/* Container needed to position the button. Adjust the width as needed */
+
+
+/* Make the image responsive */
+.logo{
+  width:60%;
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+.manual{
+  width:100%;
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.container img {
+  width: 100%;
+  height: auto;
+  text-align: center;
+  filter: grayscale(100%);
+}
+
+.container2 img {
+  width: 100%;
+  height: auto;
+  text-align: center;
+  filter: grayscale(100%);
+}
+
+.container3 img {
+  width: 100%;
+  height: auto;
+  text-align: center;
+  filter: grayscale(100%);
+}
+
+.container4 img {
+  width: 100%;
+  height: auto;
+  text-align: center;
+  filter: grayscale(100%);
+}
+
+.container5 img {
+  width: 100%;
+  height: auto;
+  text-align: center;
+  filter: grayscale(100%);
+}
+
+.container6 img {
+  width: 100%;
+  height: auto;
+  text-align: center;
+  filter: grayscale(100%);
+}
+
+.container7 img {
+  width: 100%;
+  height: auto;
+  text-align: center;
+  filter: grayscale(100%);
+}
+
+.container8 img {
+  width: 100%;
+  height: auto;
+  text-align: center;
+  filter: grayscale(100%);
+}
+
+.container9 img {
+  width: 100%;
+  height: auto;
+  text-align: center;
+  filter: grayscale(100%);
+}
+
+.container10 img {
+  width: 100%;
+  height: auto;
+  text-align: center;
+  filter: grayscale(100%);
+}
+
+.container11 img {
+  width: 100%;
+  height: auto;
+  text-align: center;
+  filter: grayscale(100%);
+}
+
+.container12 img {
+  width: 100%;
+  height: auto;
+  text-align: center;
+  filter: grayscale(100%);
+}
+
+.container13 img {
+  width: 100%;
+  height: auto;
+  text-align: center;
+  filter: grayscale(100%);
+}
+
+.container14 img {
+  width: 100%;
+  height: auto;
+  text-align: center;
+  filter: grayscale(100%);
+}
+
+.container14 img {
+  width: 100%;
+  height: auto;
+  text-align: center;
+  filter: grayscale(100%);
+}
+
+.container15 img {
+  width: 100%;
+  height: auto;
+  text-align: center;
+  filter: grayscale(100%);
+}
+
+.container16 img {
+  width: 100%;
+  height: auto;
+  text-align: center;
+  filter: grayscale(100%);
+}
+
+.container17 img {
+  width: 100%;
+  height: auto;
+  text-align: center;
+  filter: grayscale(100%);
+}
+
+.container18 img {
+  width: 100%;
+  height: auto;
+  text-align: center;
+}
+
+.container19 img {
+  width: 100%;
+  height: auto;
+  text-align: center;
+}
+.container20 img {
+  width: 100%;
+  height: auto;
+  text-align: center;
+}
+.container21 img {
+  width: 100%;
+  height: auto;
+  text-align: center;
+}
+.container22 img {
+  width: 100%;
+  height: auto;
+  text-align: center;
+}
+.container23 img {
+  width: 100%;
+  height: auto;
+  text-align: center;
+}
+.container24 img {
+  width: 100%;
+  height: auto;
+  text-align: center;
+}
+.container25 img {
+  width: 100%;
+  height: auto;
+  text-align: center;
+}
+.container26 img {
+  width: 100%;
+  height: auto;
+  text-align: center;
+}
+.container27 img {
+  width: 100%;
+  height: auto;
+  text-align: center;
+}
+.container28 img {
+  width: 100%;
+  height: auto;
+  text-align: center;
+}
+.container29 img {
+  width: 100%;
+  height: auto;
+  text-align: center;
+}
+/* Style the button and place it in the middle of the container/image */
+.container .btn {
+  position: absolute;
+  top: 220%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #ed6e1c;
+  color:  #ed6e1c;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 5px;
+  outline:none;
+  font-family: garamond;
+  font-style: italic;
+  color: white;
+}
+
+.container .button {
+  position: absolute;
+  top: 230%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #ed6e1c;
+  color:  #ed6e1c;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 5px;
+  outline:none;
+  font-family: garamond;
+  font-style: italic;
+  color: white;
+}
+
+.container2 .btn {
+  position: absolute;
+  top: 89%;
+  left: 41%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: transparent;
+  color: transparent;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 5px;
+  outline:none;
+}
+
+.container3 .btn {
+  position: absolute;
+  top: 48%;
+  left: 38%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: transparent;
+  color: transparent;
+  font-size: 16px;
+  padding: 160px 90px;
+  border: none;
+  border-radius: 5px;
+  outline:none;
+}
+
+.container4 .btn {
+  position: absolute;
+  top: 36%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: transparent;
+  color: transparent;
+  font-size: 16px;
+  padding: 100px 10px;
+  border: none;
+  border-radius: 5px;
+  outline:none;
+}
+
+.container5 .btn {
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: transparent;
+  color: transparent;
+  font-size: 16px;
+  padding: 100px 200px;
+  border: none;
+  border-radius: 5px;
+  outline:none;
+}
+
+.container6 .btn {
+  position: absolute;
+  top: 33%;
+  left: 45%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: transparent;
+  color:transparent;
+  font-size: 16px;
+  padding: 60px 60px;
+  border: none;
+  border-radius: 5px;
+  outline:none;
+}
+
+.container7 .btn {
+  position: absolute;
+  top: 78%;
+  left: 37%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: transparent;
+  color: transparent;
+  font-size: 16px;
+  padding: 30px 30px;
+  border: none;
+  border-radius: 5px;
+  outline:none;
+}
+
+.container8 .btn {
+  position: absolute;
+  top: 43%;
+  left: 35%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: transparent;
+  color: transparent;
+  font-size: 16px;
+  padding: 30px 40px;
+  overflow: hidden;
+  border: none;
+  border-radius: 5px;
+  outline:none;
+}
+
+.container9 .btn {
+  position: absolute;
+  top: 55%;
+  left: 52%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: transparent;
+  color: transparent;
+  font-size: 16px;
+  padding: 200px 200px;
+  overflow: hidden;
+  border: none;
+  border-radius: 5px;
+  outline:none;
+}
+
+.container10 .btn {
+  position: absolute;
+  top: 28%;
+  left: 56%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: transparent;
+  color: transparent;
+  font-size: 16px;
+  padding: 40px 50px;
+  overflow: hidden;
+  border: none;
+  border-radius: 5px;
+  outline:none;
+}
+
+.container11 .btn {
+  position: absolute;
+  top: 28%;
+  left: 56%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: transparent;
+  color: transparent;
+  font-size: 16px;
+  padding: 40px 50px;
+  overflow: hidden;
+  border: none;
+  border-radius: 5px;
+  outline:none;
+}
+
+.container11 .btn {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: transparent;
+  color: transparent;
+  font-size: 16px;
+  padding: 40px 50px;
+  overflow: hidden;
+  border: none;
+  border-radius: 5px;
+}
+
+.container12 .btn {
+  position: absolute;
+  top: 40%;
+  left: 48%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: transparent;
+  color: transparent;
+  font-size: 16px;
+  padding: 60px 120px;
+  overflow: hidden;
+  border: none;
+  border-radius: 5px;
+    outline:none;
+}
+
+.container13 .btn {
+  position: absolute;
+  top: 83%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: transparent;
+  color: transparent;
+  font-size: 16px;
+  padding: 50px 220px;
+  overflow: hidden;
+  border: none;
+  border-radius: 5px;
+    outline:none;
+}
+
+.container14 .btn {
+  position: absolute;
+  top: 57%;
+  left: 37%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: transparent;
+  color: transparent;
+  font-size: 16px;
+  padding: 40px 100px;
+  overflow: hidden;
+  border: none;
+  border-radius: 5px;
+    outline:none;
+}
+
+.container15 .btn {
+  position: absolute;
+  top: 56%;
+  left: 45%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: transparent;
+  color: transparent;
+  font-size: 16px;
+  padding: 74px 40px;
+  overflow: hidden;
+  border: none;
+  border-radius: 5px;
+    outline:none;
+}
+
+.container16 .btn {
+  position: absolute;
+  top: 60%;
+  left: 37%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: transparent;
+  color: transparent;
+  font-size: 16px;
+  padding: 270px 55px;
+  overflow: hidden;
+  border: none;
+  border-radius: 5px;
+    outline:none;
+}
+
+.container18 .btn {
+  position: absolute;
+  top: 53%;
+  left: 48%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: transparent;
+  color:transparent;
+  font-size: 16px;
+  padding: 30px 90px;
+  overflow: hidden;
+  border: none;
+  border-radius: 5px;
+    outline:none;
+}
+
+.container19 .btn {
+  position: absolute;
+  top: 58%;
+  left: 48%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: transparent;
+  color: transparent;
+  font-size: 16px;
+  padding: 15px 90px;
+  overflow: hidden;
+  border: none;
+  border-radius: 5px;
+    outline:none;
+}
+
+.container20 .btn {
+  position: absolute;
+  top: 50%;
+  left: 52%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: transparent;
+  color: transparent;
+  font-size: 16px;
+  padding: 10px 10px;
+  overflow: hidden;
+  border: none;
+  border-radius: 5px;
+    outline:none;
+}
+
+.container21 .btn {
+  position: absolute;
+  top: 65%;
+  left: 51%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: transparent;
+  color: transparent;
+  font-size: 16px;
+  padding: 40px 20px;
+  overflow: hidden;
+  border: none;
+  border-radius: 5px;
+    outline:none;
+}
+
+.container22 .btn {
+  position: absolute;
+  top: 62%;
+  left: 43%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: transparent;
+  color: transparent;
+  font-size: 16px;
+  padding:40px 20px;
+  overflow: hidden;
+  border: none;
+  border-radius: 5px;
+    outline:none;
+}
+
+.container23 .btn {
+  position: absolute;
+  top: 64%;
+  left: 47%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: transparent;
+  color: transparent;
+  font-size: 16px;
+  padding:40px 20px;
+  overflow: hidden;
+  border: none;
+  border-radius: 5px;
+    outline:none;
+}
+
+.container24 .btn {
+  position: absolute;
+  top: 79%;
+  left: 43%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: transparent;
+  color: transparent;
+  font-size: 16px;
+  padding:20px 20px;
+  overflow: hidden;
+  border: none;
+  border-radius: 5px;
+    outline:none;
+}
+
+.container25 .btn {
+  position: absolute;
+  top: 48%;
+  left: 52%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: transparent;
+  color: transparent;
+  font-size: 16px;
+  padding:5px 5px;
+  overflow: hidden;
+  border: none;
+  border-radius: 5px;
+    outline:none;
+}
+
+.container26 .btn {
+  position: absolute;
+  top: 72%;
+  left: 46%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: transparent;
+  color:transparent;
+  font-size: 16px;
+  padding:20px 20px;
+  overflow: hidden;
+  border: none;
+  border-radius: 5px;
+    outline:none;
+}
+
+
+
+
+p{
+  font-family: garamond;
+  color: #ed6e1c;
+  font-size: 20px;
+  text-align: center;
+}
+
+h1{
+  font-family: garamond;
+  font-style: italic;
+  color:#ed6e1c;
+  font-size: 20px;
+  text-align: center;
+
+}
+
+h2{
+  font-family: garamond;
+  font-style: italic;
+  color: #ed6e1c;
+  font-size: 20px;
+  text-align: center;
+
+}
+
+body{
+  background-color: white;
+}
